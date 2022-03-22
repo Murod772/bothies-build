@@ -1,0 +1,30 @@
+/* Custom CSS */
+
+.logo{
+	margin: 0;
+	color: #484848; 
+	font-size: 46px; 
+	font-weight: 700; 
+	text-shadow: 
+		0 7px 10px rgba(0,0,0,0.07), 
+		0 4px 4px rgba(0,0,0,0.2);
+}
+
+
+.active {
+    color: black;
+}
+
+
+.img-fullwidth{
+    width: 100% !important;
+    height: auto !important;
+}
+
+.ready{
+    margin-bottom: 30px !important;
+}
+
+.text-color-primary{
+    color: #5b9bd5;
+}
